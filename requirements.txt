@@ -1,0 +1,7 @@
+psutil
+pip
+PyGObject
+packaging
+wheel
+setuptools
+requests
